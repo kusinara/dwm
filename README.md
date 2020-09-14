@@ -1,3 +1,5 @@
+This build contains bad practices but should still be functional, I am also no longer using a tiling wm or Arch linux so I will not be working towards making a proper PKGBUILD with patches
+
 ## Patches
 - vanitygaps
 - swallow
